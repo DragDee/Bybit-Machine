@@ -1,0 +1,5 @@
+TWO_CAPTCHA_KEY=''
+binance_api_key=''
+binance_prvt_key=''
+
+MAIN_EVM_WALLET=''
