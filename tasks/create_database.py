@@ -6,6 +6,15 @@ from models.email import Email
 from models.bybit_account import BybitAccount
 from models.proxy import Proxy
 from models.accounts import Accounts
+from models.base import Base
+from models.email import Email
+from models.bybit_account import BybitAccount
+from models.proxy import Proxy
+from models.accounts import Accounts
+from models.networks_names import NetworksNames
+from models.networks import Networks
+from models.usdt import Usdt
+from models.ts_accs import TsAccounts
 
 async def create_db():
     #Base.metadata.create_all(engine)
